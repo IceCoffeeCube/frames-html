@@ -1,0 +1,178 @@
+{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  width: 1915px;
+  width: 100%;
+  height: 1000vh;
+  
+  background: linear-gradient(
+    to bottom,
+    #181818	 0%,
+    #181818	 6%,
+    white 6%,
+    white 100%
+	
+  );
+  background-image: url('volkswagenbck.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 61%;
+   overflow-x: hidden;
+}
+textarea {
+  width: 60%;
+  height: 375px;
+  padding: 12px 10px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+  position: absolute;
+  top: 27%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: comfortaa;
+  font-style: bold;
+}
+
+
+
+
+h1 {
+			color: white;
+			font-family: comfortaa;
+			position: absolute;
+			top: 0px;
+			left: 50%;
+			transform: translateX(-50%);
+		}
+
+.yellowbar0 {
+  position: relative;
+  top: 5.85%;
+  left: -0.25%;
+}
+.fordlogo {
+  position: relative;
+  top: 600px;
+  left: 40px;
+  border: 1px solid #f000;
+  box-shadow: 3px 3px 6px #888;
+}
+.toyotalogo {
+  position: relative;
+  top: 700px;
+  left: 40px;
+  border: 1px solid #f000;
+  box-shadow: 3px 3px 6px #888;
+}
+.buggattilogo {
+  position: relative;
+  top: 800px;
+  left: 40px;
+  border: 1px solid #f000;
+  box-shadow: 3px 3px 6px #888;
+}
+.volswagenlogo{
+  position: relative;
+  top: 900px;
+  left: 40px;
+  border: 1px solid #f000;
+  box-shadow: 3px 3px 6px #888;
+	
+}
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+  
+}
+
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 5px;
+}
+ 
+
+::-webkit-scrollbar-thumb {
+  background:  #ffd553; 
+  border-radius: 5px;
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+  background:  #e3b525;
+ 
+}
+.FDT {
+			
+			font-family: comfortaa;
+			position: absolute;
+			top: 600px;
+			left: 50%;
+			transform: translateX(-50%);
+		}
+.FDM65 {
+			
+			font-family: comfortaa;
+			position: absolute;
+			top: 1300px;
+			left: 50%;
+			transform: translateX(-50%);
+		}
+.FDMS {
+			
+			font-family: comfortaa;
+			position: absolute;
+			top: 2000px;
+			left: 50%;
+			transform: translateX(-50%);
+		}
+.FDRAPTOR {
+			
+			font-family: comfortaa;
+			position: absolute;
+			top: 2700px;
+			left: 50%;
+			transform: translateX(-50%);
+		}
+.FDGT2006 {
+			
+			font-family: comfortaa;
+			position: absolute;
+			top: 3400px;
+			left: 50%;
+			transform: translateX(-50%);
+		}
+.FDA {
+			
+			font-family: comfortaa;
+			position: absolute;
+			top: 4100px;
+			left: 50%;
+			transform: translateX(-50%);
+		}
+.FDF100 {
+			
+			font-family: comfortaa;
+			position: absolute;
+			top: 4800px;
+			left: 50%;
+			transform: translateX(-50%);
+		}
+.FD33 {
+			
+			font-family: comfortaa;
+			position: absolute;
+			top: 5500px;
+			left: 50%;
+			transform: translateX(-50%);
+		}		
+
+
+
